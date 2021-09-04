@@ -1,0 +1,33 @@
+JOSEPH STATIONARY
+
+YOUR PURCHASE
+ 
+Product ID : 101
+
+Product name : Fancy pencil 
+
+Price of one quantity: 40
+
+Quantity purchased:2
+ 
+Product ID : 131
+
+Product name : Spiral notebooks 
+
+Price of one quantity: 150
+
+Quantity purchased:3
+ 
+Product ID : 121
+
+Product name : Clip board 
+
+Price of one quantity: 100
+
+Quantity purchased:4
+
+TOTAL BILL AMOUNT=930
+
+THANK YOU FOR YOUR PURCHASE
+
+VISIT AGAIN
